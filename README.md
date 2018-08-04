@@ -1,3 +1,3 @@
 # Hello-world
 
-Zdravi ja sam Nikola
+Zdravo ja sam Nikola
